@@ -1,1 +1,1 @@
-print("Tennis on peli")
+print("Tennis on hyvä peli")
